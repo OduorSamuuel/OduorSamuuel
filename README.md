@@ -16,44 +16,45 @@
 
 <h4>Frontend</h4>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Next.js&logo=next.js&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=TypeScript&logo=typescript&label=&color=3178C6&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=TailwindCSS&logo=tailwind-css&label=&color=06B6D4&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" />
+  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" height="35" />
 </div>
 
 <h4>Backend</h4>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Node.js&logo=node.js&label=&color=339933&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Spring Boot&logo=spring&label=&color=6DB33F&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Express.js&logo=express&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" height="35" />
 </div>
 
 <h4>Databases</h4>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=MongoDB&logo=mongodb&label=&color=47A248&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=PostgreSQL&logo=postgresql&label=&color=336791&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=MySQL&logo=mysql&label=&color=4479A1&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="35" />
 </div>
 
 <h4>Mobile Development</h4>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Kotlin&logo=kotlin&label=&color=0095D5&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=React Native&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" />
 </div>
 
 <h4>Deployment & DevOps</h4>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Docker&logo=docker&label=&color=2496ED&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Vercel&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Azure&logo=microsoft-azure&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=Render&logo=render&label=&color=46E3B7&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white" height="35" />
 </div>
 
 <h4>Version Control</h4>
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Git&logo=git&label=&color=F05032&logoColor=white&labelColor=&style=for-the-badge" height="35" />
-  <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" />
+  <img src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" height="35" />
 </div>
 
 
