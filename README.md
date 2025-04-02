@@ -40,7 +40,7 @@
 <h4>Mobile Development</h4>
 <div align="left">
   <img src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" height="35" />
-  <img src="https://img.shields.io/badge/React%20Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" height="35" />
+
 </div>
 
 <h4>Deployment & DevOps</h4>
