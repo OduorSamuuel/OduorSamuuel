@@ -4,9 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oduorsamuuel" alt="oduorsamuuel" /></a> </p>
 
-- 🔭 I’m currently working on [Joblaunch](https://github.com/OduorSamuuel/goalbot.git)
 
-- 🌱 I’m currently learning **Springboot**
 
 - 💬 Ask me about **react,laravel,nextjs**
 
