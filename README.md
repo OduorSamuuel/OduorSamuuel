@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Samuel Onyango</h1>
-<h3 align="center">A passionate  developer from Kenya</h3>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oduorsamuuel" alt="oduorsamuuel" /></a> </p>
+<h3 align="center">💻 A Passionate Developer from Kenya 🚀</h3>
 
 
 
-- 💬 Ask me about **react,laravel,nextjs**
+- 💬 Ask me about **React, Laravel, Next.js**  
+- 📫 How to reach me: **onyangos949@gmail.com**  
+- 🌍 I love solving problems and building impactful applications  
 
-- 📫 How to reach me **onyangos949@gmail.com**
+
+
 
 
 
@@ -58,7 +58,7 @@
 </div>
 
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oduorsamuuel" alt="oduorsamuuel" /></a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oduorsamuuel&show_icons=true&locale=en&layout=compact" alt="oduorsamuuel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=oduorsamuuel&show_icons=true&locale=en" alt="oduorsamuuel" /></p>
