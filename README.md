@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samuel Onyango</h1>
-<h3 align="center">💻 A Passionate Developer from Kenya 🚀</h3>
+
 
 
 
